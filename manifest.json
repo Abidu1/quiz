@@ -1,0 +1,22 @@
+{  
+    "name": "Quiz",  
+    "short_name": "notify",  
+    "description": "Quiz",  
+    "start_url": ".",  
+    "icons": [  
+      {  
+        "src": "/images/79-794315_quiz-on-computer-with-question-signs-around-quiz.png",  
+        "sizes": "281x280",  
+        "type": "image/png"  
+      },  
+      {  
+        "src": "/images/21610-200.png",  
+        "sizes": "200x200",  
+        "type": "image/png"  
+      }
+    ],  
+    "theme_color": "#111111",  
+    "background_color": "#DDDDDD",  
+    "display": "standalone",  
+    "orientation": "portrait"  
+  } 

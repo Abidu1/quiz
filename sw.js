@@ -16,7 +16,10 @@ var urlsToCache = [
   '/manifest.json',
   '/sw.js',
   '/styles/style.css',
-  '/script.js'
+  '/script.js',
+  '/images/21610-200.png',
+  '/images/79-794315_quiz-on-computer-with-question-signs-around-quiz.png',
+  '/images/quiz512.png'
 ];
 
 self.addEventListener('install', function(event) {

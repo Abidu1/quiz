@@ -5,19 +5,19 @@
     "start_url": "/quiz",  
     "icons": [  
       {  
-        "src": "/images/79-794315_quiz-on-computer-with-question-signs-around-quiz.png",  
+        "src": "./images/79-794315_quiz-on-computer-with-question-signs-around-quiz.png",  
         "sizes": "281x280",  
         "type": "image/png"
         
       },  
       {  
-        "src": "/images/21610-200.png",  
+        "src": "./images/21610-200.png",  
         "sizes": "200x200",  
         "type": "image/png" ,
         "purpose" : "any"
       },
       {  
-        "src": "/images/quiz512.png",  
+        "src": "./images/quiz512.png",  
         "sizes": "512X512",  
         "type": "image/png", 
         "purpose" : "maskable"

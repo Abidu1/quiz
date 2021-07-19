@@ -3,6 +3,7 @@
     "short_name": "notify",  
     "description": "Quiz",  
     "start_url": ".",  
+    "scope":"/quiz/",
     "icons": [  
       {  
         "src": "/images/79-794315_quiz-on-computer-with-question-signs-around-quiz.png",  

@@ -2,7 +2,7 @@
     "name": "Quiz",  
     "short_name": "notify",  
     "description": "Quiz",  
-    "start_url": ".",  
+    "start_url": "/quiz",  
     "scope":"/quiz/",
     "icons": [  
       {  

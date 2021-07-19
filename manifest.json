@@ -6,12 +6,12 @@
     "scope":"/quiz/",
     "icons": [  
       {  
-        "src": "quiz/images/79-794315_quiz-on-computer-with-question-signs-around-quiz.png",  
+        "src": "/images/79-794315_quiz-on-computer-with-question-signs-around-quiz.png",  
         "sizes": "281x280",  
         "type": "image/png"  
       },  
       {  
-        "src": "quiz/images/21610-200.png",  
+        "src": "/images/21610-200.png",  
         "sizes": "200x200",  
         "type": "image/png"  
       }
